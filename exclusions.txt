@@ -1,11 +1,12 @@
 pragma/.git
 pragma/.gitignore
 pragma/.github
+pragma/cypress/
 pragma/exclusions.txt
 pragma/gulpfile.js
-pragma/cypress/
 pragma/node_modules/
 pragma/package.json
 pragma/package-lock.json
+pragma/resources/dist/app.js
 pragma/resources/dist/app-debug.js
-pragma/resources/js/
+pragma/resources/js/main.js
