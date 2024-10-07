@@ -8,4 +8,4 @@ pragma/package.json
 pragma/package-lock.json
 pragma/resources/js
 pragma/resources/dist/app.js
-pragma/resources/dist/app-debug.js
+pragma/resources/dist/app\-debug.js
